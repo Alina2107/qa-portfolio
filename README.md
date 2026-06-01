@@ -34,10 +34,10 @@
 
 | Раздел | Описание |
 |---|---|
-| `checklists` | Чек-листы для проверки функциональности |
-| `test-cases` | Тест-кейсы с шагами и ожидаемым результатом |
-| `bug-reports` | Примеры баг-репортов |
-| `api-postman` | Примеры API-тестирования |
-| `sql` | SQL-запросы из практических заданий |
-| `devtools` | Примеры работы с Chrome DevTools |
-| `certificates` | Сертификаты об обучении |
+| [checklists](./checklists) | Чек-листы для проверки функциональности |
+| [test-cases](./test-cases) | Тест-кейсы с шагами и ожидаемым результатом |
+| [bug-reports](./bug-reports) | Примеры баг-репортов |
+| [sql](./sql) | SQL-запросы из практических заданий |
+| [devtools](./devtools) | Примеры работы с Chrome DevTools |
+| [api-postman](./api-postman) | Примеры API-тестирования |
+| [certificates](./certificates) | Сертификаты об обучении |
